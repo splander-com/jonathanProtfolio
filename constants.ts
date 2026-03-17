@@ -1,7 +1,7 @@
 import { TimelineItem, ExpertiseItem, StatItem } from './types';
 
 // Generic placeholder avatar
-export const AVATAR_URL = 'https://media.licdn.com/dms/image/v2/D4D03AQHm36D8YRN6pQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1688975421143?e=1772064000&v=beta&t=p39EJMgaTc0HVlDRDt0VHNzTtdHA_kzXbBsuHxM2el0';
+export const AVATAR_URL = '/yoni.jpeg';
 
 export const HERO_KEYWORDS = [
     "Great User Experience",
@@ -72,7 +72,7 @@ export const EXPERTISE: ExpertiseItem[] = [
         title: "UX & Platform Scale",
         description: "Customer-first UX, design systems, and platform redesign to scale across markets, and devices.",
         colSpan: 3,
-        variant: "default"
+        variant: "dark"
     },
     {
         icon: "analytics",
