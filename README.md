@@ -9,7 +9,7 @@ This project is set up to deploy automatically to **GitHub Pages** using GitHub 
 1. Push this code to the `main` or `master` branch.
 2. Go to your GitHub repository **Settings** -> **Pages**.
 3. Under **Build and deployment**, select **Source** as **GitHub Actions**.
-4. The workflow will run automatically and deploy your site to `https://the-job-hunter.github.io/jonathanProtfolio/`.
+4. The workflow will run automatically and deploy your site to `https://protfolio.splander.com/`.
 
 ## 🛠 Tech Stack
 
